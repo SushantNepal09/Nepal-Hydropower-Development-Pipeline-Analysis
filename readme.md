@@ -207,7 +207,7 @@ Based on the figures used in the dashboard:
 
 This represents substantial growth in operating hydropower capacity over the analyzed period.
 
-> **Note:** The 2025 figure (3,016.78 MW) reflects capacity recorded up to the available data cutoff, as 2025 data is not yet complete.
+> **Note:** The 2025 figure (3,016.78 MW) reflects capacity recorded up to the available data cutoff, as 2026 data is not yet complete.
 
 ### CAGR
 
